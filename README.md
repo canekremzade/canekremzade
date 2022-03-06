@@ -8,6 +8,7 @@
 -Instagram: <a href="www.instagram.com/canekremzade">@canekremzade</a>
 -twitter: <a href="www.twitter.com/canekremzade">@canekremzade</a>
 -facebook: <a href="www.facebook.com/canekremzade">@canekremzade</a>
+-Twitch: <a href="www.twitch.com/canekremzade">@canekremzade</a>
 
 <!---
 canekremzade/canekremzade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
